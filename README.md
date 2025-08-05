@@ -19,7 +19,7 @@ This repository contains my progress, notes, and code while taking the **CS50’
 To build a strong Python foundation for Machine Learning and AI.
 
 ## 📺 Course Link
-[CS50P – Full Course on FreeCodeCamp](https://www.youtube.com/watch?v=5pXbP0rkFfI)
+[CS50P – Full Course on FreeCodeCamp](https://youtu.be/nLRL_NcnK-4?si=461hUq0p2MNwpVy5)
 
 ---
 
